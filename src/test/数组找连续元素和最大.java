@@ -1,6 +1,6 @@
 package test;
 
-public class MaxCollection {
+public class 数组找连续元素和最大 {
 
 	public static void main(String[] args) {
 		maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4});
