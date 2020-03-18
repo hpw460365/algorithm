@@ -1,4 +1,4 @@
-package test;
+package apply;
 
 public class 两数之和 {
 
